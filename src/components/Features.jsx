@@ -17,7 +17,7 @@ const Features = () => {
                 </p>
             </div>
             {/* Numbered List */}
-            <div className='flex flex-col space-y-8 md: w-1/2'>
+            <div className='flex flex-col space-y-8 md:w-1/2'>
                 {/* List Item */}
                 <div className='flex flex-col space-y-3 md:space-y-0 md:space-x-6 md:flex-row'>
                     {/* Heading */}
